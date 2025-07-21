@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Courses on MHBF Classroom</title>
+    <link>http://localhost:1313/courses/</link>
+    <description>Recent content in Courses on MHBF Classroom</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/courses/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>http://localhost:1313/courses/artificial-intelligence/</link>
+      <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/courses/artificial-intelligence/</guid>
+      <description>&lt;h3 id=&#34;topics&#34;&gt;Topics:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Introduction &lt;a href=&#34;https://courses.cs.washington.edu/courses/cse573/21wi/slides/1-intro.pdf&#34;&gt;Resources1&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Search &lt;a href=&#34;https://courses.cs.washington.edu/courses/cse573/21wi/slides/2-search.pdf&#34;&gt;Resources&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Informed Search [Annotated] &lt;a href=&#34;https://courses.cs.washington.edu/courses/cse573/21wi/slides/3-InformedSearch.pdf&#34;&gt;Resources&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Adversarial Search [Annotated] &lt;a href=&#34;https://courses.cs.washington.edu/courses/cse573/21wi/slides/5-Expectimax-annotated.pdf&#34;&gt;Resources&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Expectimax [Annotated] &lt;a href=&#34;https://courses.cs.washington.edu/courses/cse573/21wi/slides/5-Expectimax-annotated.pdf&#34;&gt;Resources&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Markov Decision Processes (MDPs) [Annotated] &lt;a href=&#34;https://courses.cs.washington.edu/courses/cse573/21wi/slides/6-MDPs.pdf&#34;&gt;Resources&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Reinforcement Learning [Annotated] &lt;a href=&#34;https://courses.cs.washington.edu/courses/cse573/21wi/slides/7-RLs1-annotated.pdf&#34;&gt;Resources&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Reinforcement LearningII [Annotated] &lt;a href=&#34;https://courses.cs.washington.edu/courses/cse573/21wi/slides/8-RLs2.pdf&#34;&gt;Resources&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Bayesian Networks and Probabilistic [Annotated] &lt;a href=&#34;https://courses.cs.washington.edu/courses/cse573/21wi/slides/9-BNs.pdf&#34;&gt;Resources&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Hidden Markov Models (HMMs) [Annotated] &lt;a href=&#34;https://courses.cs.washington.edu/courses/cse573/21wi/slides/10-HMMs.pdf&#34;&gt;Resources&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;HMMs Inference [Annotated] &lt;a href=&#34;https://courses.cs.washington.edu/courses/cse573/21wi/slides/11-HMM-Inference.pdf&#34;&gt;Resources&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Inference in Bayesian Networks &lt;a href=&#34;https://courses.cs.washington.edu/courses/cse573/21wi/slides/12-BN-Inference.pdf&#34;&gt;Resources&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Neural Networks and Application &lt;a href=&#34;https://courses.cs.washington.edu/courses/cse573/21wi/slides/12-NeuralNets-Applications.pdf&#34;&gt;Resources&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Finals&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/Faruq-06&#34;&gt;My Github&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;credits&#34;&gt;&lt;strong&gt;Credits&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Course Slides: &lt;a href=&#34;https://courses.cs.washington.edu/courses/cse573/21wi/&#34;&gt;University of Washington CSE573&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Maintainer: &lt;a href=&#34;https://github.com/Faruq-06&#34;&gt;My Github&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Computer Graphics</title>
+      <link>http://localhost:1313/courses/computer-graphics/</link>
+      <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/courses/computer-graphics/</guid>
+      <description>&lt;h3 id=&#34;topics&#34;&gt;Topics:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Boundary-fill and Flood-fill algorithms&lt;/li&gt;&#xA;&lt;li&gt;Scan converting characters&lt;/li&gt;&#xA;&lt;li&gt;Anti-aliasing&lt;/li&gt;&#xA;&lt;li&gt;Recursive drawings (C Curve, Koch Curve)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/courses/nlp-slides/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/courses/nlp-slides/</guid>
+      <description>&lt;h1 id=&#34;here-is-the-course-slides-on-nlp&#34;&gt;Here is the course slides on NLP&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/slides/NLP/1intro.ppt&#34;&gt;Lecture 1&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
