@@ -2,6 +2,12 @@
 title: "Artificial Intelligence"
 date: 2025-07-21
 ---
+### Course Information:
+- Semester: 6th
+- Course Code: 07-0619-AI603
+- Credits: 03
+- Course Teacher: Md Habibul Basar Faruq
+- Email: mh.faruq06@gmail.com
 
 ### Topics:
 - Introduction [Resources1](https://courses.cs.washington.edu/courses/cse573/21wi/slides/1-intro.pdf) 
