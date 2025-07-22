@@ -1,37 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Courses on MHBF Classroom</title><link>https://faruq-06.github.io/Classroom/courses/</link><description>Recent content in Courses on MHBF Classroom</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 21 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://faruq-06.github.io/Classroom/courses/index.xml" rel="self" type="application/rss+xml"/><item><title>Artificial Intelligence</title><link>https://faruq-06.github.io/Classroom/courses/artificial-intelligence/</link><pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate><guid>https://faruq-06.github.io/Classroom/courses/artificial-intelligence/</guid><description>&lt;h3 id="course-information">Course Information:&lt;/h3>
-&lt;ul>
-&lt;li>Semester: 6th&lt;/li>
-&lt;li>Course Code: 07-0619-AI603&lt;/li>
-&lt;li>Credits: 03&lt;/li>
-&lt;li>Course Teacher: Md Habibul Basar Faruq&lt;/li>
-&lt;li>Email: &lt;a href="mailto:mh.faruq06@gmail.com">mh.faruq06@gmail.com&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h3 id="topics">Topics:&lt;/h3>
-&lt;ul>
-&lt;li>Introduction &lt;a href="https://courses.cs.washington.edu/courses/cse573/21wi/slides/1-intro.pdf">Resources1&lt;/a>&lt;/li>
-&lt;li>Search &lt;a href="https://courses.cs.washington.edu/courses/cse573/21wi/slides/2-search.pdf">Resources&lt;/a>&lt;/li>
-&lt;li>Informed Search [Annotated] &lt;a href="https://courses.cs.washington.edu/courses/cse573/21wi/slides/3-InformedSearch.pdf">Resources&lt;/a>&lt;/li>
-&lt;li>Adversarial Search [Annotated] &lt;a href="https://courses.cs.washington.edu/courses/cse573/21wi/slides/5-Expectimax-annotated.pdf">Resources&lt;/a>&lt;/li>
-&lt;li>Expectimax [Annotated] &lt;a href="https://courses.cs.washington.edu/courses/cse573/21wi/slides/5-Expectimax-annotated.pdf">Resources&lt;/a>&lt;/li>
-&lt;li>Markov Decision Processes (MDPs) [Annotated] &lt;a href="https://courses.cs.washington.edu/courses/cse573/21wi/slides/6-MDPs.pdf">Resources&lt;/a>&lt;/li>
-&lt;li>Reinforcement Learning [Annotated] &lt;a href="https://courses.cs.washington.edu/courses/cse573/21wi/slides/7-RLs1-annotated.pdf">Resources&lt;/a>&lt;/li>
-&lt;li>Reinforcement LearningII [Annotated] &lt;a href="https://courses.cs.washington.edu/courses/cse573/21wi/slides/8-RLs2.pdf">Resources&lt;/a>&lt;/li>
-&lt;li>Bayesian Networks and Probabilistic [Annotated] &lt;a href="https://courses.cs.washington.edu/courses/cse573/21wi/slides/9-BNs.pdf">Resources&lt;/a>&lt;/li>
-&lt;li>Hidden Markov Models (HMMs) [Annotated] &lt;a href="https://courses.cs.washington.edu/courses/cse573/21wi/slides/10-HMMs.pdf">Resources&lt;/a>&lt;/li>
-&lt;li>HMMs Inference [Annotated] &lt;a href="https://courses.cs.washington.edu/courses/cse573/21wi/slides/11-HMM-Inference.pdf">Resources&lt;/a>&lt;/li>
-&lt;li>Inference in Bayesian Networks &lt;a href="https://courses.cs.washington.edu/courses/cse573/21wi/slides/12-BN-Inference.pdf">Resources&lt;/a>&lt;/li>
-&lt;li>Neural Networks and Application &lt;a href="https://courses.cs.washington.edu/courses/cse573/21wi/slides/12-NeuralNets-Applications.pdf">Resources&lt;/a>&lt;/li>
-&lt;li>Finals&lt;/li>
-&lt;/ul>
-&lt;h3 id="credits">&lt;strong>Credits&lt;/strong>&lt;/h3>
-&lt;ul>
-&lt;li>Course Slides: &lt;a href="https://courses.cs.washington.edu/courses/cse573/21wi/">University of Washington CSE573&lt;/a>&lt;/li>
-&lt;li>Course Teacher: Md Habibul Basar Faruq&lt;/li>
-&lt;/ul></description></item><item><title>Computer Graphics</title><link>https://faruq-06.github.io/Classroom/courses/computer-graphics/</link><pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate><guid>https://faruq-06.github.io/Classroom/courses/computer-graphics/</guid><description>&lt;h3 id="topics">Topics:&lt;/h3>
-&lt;ul>
-&lt;li>Boundary-fill and Flood-fill algorithms&lt;/li>
-&lt;li>Scan converting characters&lt;/li>
-&lt;li>Anti-aliasing&lt;/li>
-&lt;li>Recursive drawings (C Curve, Koch Curve)&lt;/li>
-&lt;/ul></description></item><item><title/><link>https://faruq-06.github.io/Classroom/courses/nlp-slides/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://faruq-06.github.io/Classroom/courses/nlp-slides/</guid><description>&lt;h1 id="here-is-the-course-slides-on-nlp">Here is the course slides on NLP&lt;/h1>
-&lt;p>&lt;a href="https://faruq-06.github.io/Classroom/slides/NLP/1intro.ppt">Lecture 1&lt;/a>&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Courses on MHBF Classroom</title>
+    <link>http://localhost:1313/Classroom/courses/</link>
+    <description>Recent content in Courses on MHBF Classroom</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/Classroom/courses/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Artificial Intelligence Lab</title>
+      <link>http://localhost:1313/Classroom/courses/artificial-intelligence-lab/</link>
+      <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Classroom/courses/artificial-intelligence-lab/</guid>
+      <description>&lt;h3 id=&#34;course-information&#34;&gt;Course Information&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Semester: 6th&lt;/li&gt;&#xA;&lt;li&gt;Course Code: 07-0619-AI Lab609&lt;/li&gt;&#xA;&lt;li&gt;Credits: 01&lt;/li&gt;&#xA;&lt;li&gt;Course Teacher: Md Habibul Basar Faruq&lt;/li&gt;&#xA;&lt;li&gt;Email: &lt;a href=&#34;mailto:mh.faruq06@gmail.com&#34;&gt;mh.faruq06@gmail.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;lab-objectives&#34;&gt;Lab Objectives&lt;/h3&gt;&#xA;&lt;p&gt;Upon completion of this lab, students will be able to:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Implement fundamental AI algorithms including search, CSP, and Markov Decision Processes&lt;/li&gt;&#xA;&lt;li&gt;Develop reinforcement learning agents using Q-learning and policy iteration&lt;/li&gt;&#xA;&lt;li&gt;Build and train simple machine learning models including classifiers and regressors&lt;/li&gt;&#xA;&lt;li&gt;Construct and train neural networks using backpropagation&lt;/li&gt;&#xA;&lt;li&gt;Apply probabilistic inference in Bayesian networks&lt;/li&gt;&#xA;&lt;li&gt;Develop AI applications for real-world problems and game environments&lt;/li&gt;&#xA;&lt;li&gt;Use AI programming tools and libraries such as Python, TensorFlow, and PyTorch&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;weekly-lab-activities&#34;&gt;Weekly Lab Activities&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Week 1:&lt;/strong&gt; Lab Setup and Environment&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Computer Algorithm Lab</title>
+      <link>http://localhost:1313/Classroom/courses/computer-algorithm-lab/</link>
+      <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Classroom/courses/computer-algorithm-lab/</guid>
+      <description>&lt;h3 id=&#34;course-information&#34;&gt;Course Information:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Semester: 4th&lt;/li&gt;&#xA;&lt;li&gt;Course Code: 07-0613-CALab406&lt;/li&gt;&#xA;&lt;li&gt;Credits: 01&lt;/li&gt;&#xA;&lt;li&gt;Course Teacher: Md Habibul Basar Faruq&lt;/li&gt;&#xA;&lt;li&gt;Email: &lt;a href=&#34;mailto:mh.faruq06@gmail.com&#34;&gt;mh.faruq06@gmail.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;lab-objectives&#34;&gt;&lt;strong&gt;Lab Objectives&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Upon completion of this lab, students will be able to:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Implement fundamental data structures (arrays, linked lists, stacks, queues, trees, graphs)&lt;/li&gt;&#xA;&lt;li&gt;Develop and analyze sorting/searching algorithms (selection, insertion, merge, quick, radix)&lt;/li&gt;&#xA;&lt;li&gt;Implement recursion-based solutions (Fibonacci, factorial, series summations)&lt;/li&gt;&#xA;&lt;li&gt;Apply divide-and-conquer, greedy, and dynamic programming techniques (Knapsack, matrix chain multiplication)&lt;/li&gt;&#xA;&lt;li&gt;Explore backtracking (N‑Queens, subset sum) and graph algorithms (DFS, BFS, Dijkstra)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;weekly-lab-activities&#34;&gt;&lt;strong&gt;Weekly Lab Activities&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Week 1:&lt;/strong&gt; Introduction&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>http://localhost:1313/Classroom/courses/artificial-intelligence/</link>
+      <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Classroom/courses/artificial-intelligence/</guid>
+      <description>&lt;h3 id=&#34;course-information&#34;&gt;Course Information&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Semester: 6th&lt;/li&gt;&#xA;&lt;li&gt;Course Code: 07-0619-AI603&lt;/li&gt;&#xA;&lt;li&gt;Credits: 03&lt;/li&gt;&#xA;&lt;li&gt;Course Teacher: Md Habibul Basar Faruq&lt;/li&gt;&#xA;&lt;li&gt;Email: &lt;a href=&#34;mailto:mh.faruq06@gmail.com&#34;&gt;mh.faruq06@gmail.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;course-description&#34;&gt;Course Description&lt;/h3&gt;&#xA;&lt;p&gt;This course provides a comprehensive introduction to Artificial Intelligence, covering foundational concepts, algorithms, and applications. Students will explore problem solving, knowledge representation, reasoning, learning, and perception, integrating theory with hands-on programming assignments.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;weekly-topics-and-resources&#34;&gt;Weekly Topics and Resources&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Week 1:&lt;/strong&gt; AI Overview &amp;amp; Foundations&lt;br&gt;&#xA;Introduction to AI concepts and history.&lt;br&gt;&#xA;&lt;a href=&#34;https://courses.cs.washington.edu/courses/cse573/21wi/slides/1-intro.pdf&#34;&gt;Intro Slides (UW CSE573)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Week 2:&lt;/strong&gt; Problem Solving &amp;amp; Search&lt;br&gt;&#xA;Uninformed and informed search strategies (DFS, BFS, A*).&lt;br&gt;&#xA;&lt;a href=&#34;https://courses.cs.washington.edu/courses/cse573/21wi/slides/2-search.pdf&#34;&gt;Search Slides&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://courses.cs.washington.edu/courses/cse573/21wi/slides/3-InformedSearch.pdf&#34;&gt;Informed Search Slides (Annotated)&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Computer Graphics</title>
+      <link>http://localhost:1313/Classroom/courses/computer-graphics/</link>
+      <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Classroom/courses/computer-graphics/</guid>
+      <description>&lt;h3 id=&#34;topics&#34;&gt;Topics:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Boundary-fill and Flood-fill algorithms&lt;/li&gt;&#xA;&lt;li&gt;Scan converting characters&lt;/li&gt;&#xA;&lt;li&gt;Anti-aliasing&lt;/li&gt;&#xA;&lt;li&gt;Recursive drawings (C Curve, Koch Curve)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
