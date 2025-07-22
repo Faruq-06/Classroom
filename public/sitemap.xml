@@ -8,6 +8,9 @@
     <loc>http://localhost:1313/Classroom/courses/computer-algorithm-lab/</loc>
     <lastmod>2025-07-22T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/Classroom/courses/computer-graphics/</loc>
+    <lastmod>2025-07-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/Classroom/courses/</loc>
     <lastmod>2025-07-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -17,8 +20,7 @@
     <loc>http://localhost:1313/Classroom/courses/artificial-intelligence/</loc>
     <lastmod>2025-07-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Classroom/courses/computer-graphics/</loc>
-    <lastmod>2025-07-21T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/Classroom/courses/computer-algorithm/</loc>
   </url><url>
     <loc>http://localhost:1313/Classroom/assignments/</loc>
   </url><url>
