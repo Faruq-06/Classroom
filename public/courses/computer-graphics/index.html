@@ -1,2 +1,204 @@
-<!doctype html><html class=no-js lang=en><head><meta charset=UTF-8><meta name=viewport content="width=device-width,initial-scale=1"><title>Computer Graphics - MHBF Classroom</title><script>(function(e,t){e[t]=e[t].replace("no-js","js")})(document.documentElement,"className")</script><meta name=description content><link rel="shortcut icon" href=/Classroom/favicon.ico><link rel=preconnect href=https://fonts.gstatic.com crossorigin><link rel=dns-prefetch href=//fonts.googleapis.com><link rel=dns-prefetch href=//fonts.gstatic.com><link rel=stylesheet href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700"><link rel=stylesheet href=/Classroom/css/style.css><link rel=stylesheet href=/Classroom/css/v2-styles.css></head><body class=body><div class="container container--outer"><header class=header><div class="container header__container"><div class=logo><a class=logo__link href=/Classroom/ title="MHBF Classroom" rel=home><div class="logo__item logo__text"><div class=logo__title>MHBF Classroom</div></div></a></div></div></header><div class="wrapper flex"><div class=primary><main class=main role=main><article class=post><header class=post__header><h1 class=post__title>Computer Graphics</h1></header><div class="content post__content clearfix"><h3 id=topics>Topics:</h3><ul><li>Boundary-fill and Flood-fill algorithms</li><li>Scan converting characters</li><li>Anti-aliasing</li><li>Recursive drawings (C Curve, Koch Curve)</li></ul></div></article></main></div></div><footer class=footer><div class="container footer__container flex"><div class=footer__copyright>&copy; 2025 MHBF Classroom.
-<span class=footer__copyright-credits>Generated with <a href=https://gohugo.io/ rel="nofollow noopener" target=_blank>Hugo</a> and <a href=https://github.com/mansoorbarri/roadster/ rel="nofollow noopener" target=_blank>Roadster</a> theme.</span></div></div></footer></div><script async defer src=/Classroom/js/menu.js></script></body></html>
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head><script src="/Classroom/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=Classroom/livereload" data-no-instant defer></script><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Computer Graphics - MHBF Classroom</title>
+<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script><meta name="description" content="">
+
+<link rel="shortcut icon" href="/Classroom/favicon.ico">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//fonts.gstatic.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700"><link rel="stylesheet" href="/Classroom/css/style.css">
+<link rel="stylesheet" href="/Classroom/css/v2-styles.css">
+
+
+    
+
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo">
+		<a class="logo__link" href="/Classroom/" title="MHBF Classroom" rel="home">
+			<div class="logo__item logo__text">
+					<div class="logo__title">MHBF Classroom</div>
+					
+				</div>
+		</a>
+	</div>
+		
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">Computer Graphics</h1>
+			
+		</header>
+		<div class="content post__content clearfix">
+			<h3 id="course-information">Course Information</h3>
+<ul>
+<li>Semester: 8th</li>
+<li>Course Code: 07-0613-CG802</li>
+<li>Credits: 03</li>
+<li>Course Teacher: Md Habibul Basar Faruq</li>
+<li>Email: <a href="mailto:mh.faruq06@gmail.com">mh.faruq06@gmail.com</a></li>
+</ul>
+<hr>
+<h3 id="course-description">Course Description</h3>
+<p>This course introduces the principles and techniques of computer graphics. Topics include the graphics pipeline, 2D and 3D transformations, viewing and projections, rasterization, shading, texture mapping, ray tracing, geometric modeling, animation, and advanced rendering. Students will learn the mathematical foundations and apply them in graphical application design.</p>
+<hr>
+<h3 id="course-outcomes">Course Outcomes</h3>
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+<li>Understand the architecture of modern graphics systems and pipelines</li>
+<li>Apply 2D and 3D transformations for modeling and viewing</li>
+<li>Explain and implement rasterization techniques for primitives</li>
+<li>Analyze lighting models and shading techniques</li>
+<li>Apply texture mapping and anti-aliasing methods</li>
+<li>Understand and implement basic ray tracing</li>
+<li>Model curves and surfaces using parametric representations</li>
+<li>Explore animation techniques and GPU programming concepts</li>
+</ul>
+<hr>
+<h3 id="weekly-topics">Weekly Topics</h3>
+<ul>
+<li>
+<p><strong>Week 1:</strong> Introduction to Computer Graphics</p>
+<ul>
+<li>Overview, history, and applications of graphics</li>
+</ul>
+</li>
+<li>
+<p><strong>Week 2:</strong> Graphics Pipeline and Coordinate Systems</p>
+<ul>
+<li>Stages in graphics pipeline, world-to-screen mapping</li>
+</ul>
+</li>
+<li>
+<p><strong>Week 3:</strong> 2D Primitives and Scan Conversion</p>
+<ul>
+<li>Line drawing algorithms (DDA, Bresenham), circle drawing</li>
+</ul>
+</li>
+<li>
+<p><strong>Week 4:</strong> Polygon Filling and Clipping</p>
+<ul>
+<li>Scan-line fill, boundary-fill, flood-fill</li>
+<li>Clipping algorithms: Cohen–Sutherland, Sutherland–Hodgman</li>
+</ul>
+</li>
+<li>
+<p><strong>Week 5:</strong> 2D and 3D Transformations</p>
+<ul>
+<li>Translation, scaling, rotation, shear, reflection</li>
+<li>Homogeneous coordinates and composite transformations</li>
+</ul>
+</li>
+<li>
+<p><strong>Week 6:</strong> Viewing and Projection</p>
+<ul>
+<li>3D viewing pipeline, perspective and orthographic projections</li>
+</ul>
+</li>
+<li>
+<p><strong>Week 7:</strong> Hidden Surface Removal</p>
+<ul>
+<li>Depth buffer (Z-buffer), Painter’s algorithm</li>
+</ul>
+</li>
+<li>
+<p><strong>Week 8:</strong> Lighting and Shading Models</p>
+<ul>
+<li>Ambient, diffuse, specular reflection</li>
+<li>Flat, Gouraud, and Phong shading</li>
+</ul>
+</li>
+<li>
+<p><strong>Week 9:</strong> Texture Mapping and Anti-Aliasing</p>
+<ul>
+<li>Texture coordinates, mipmapping</li>
+<li>Anti-aliasing techniques</li>
+</ul>
+</li>
+<li>
+<p><strong>Week 10:</strong> Introduction to Ray Tracing</p>
+<ul>
+<li>Ray casting, recursive ray tracing for reflection and refraction</li>
+</ul>
+</li>
+<li>
+<p><strong>Week 11:</strong> Geometric Modeling</p>
+<ul>
+<li>Curves and surfaces: Bézier curves, B-splines</li>
+</ul>
+</li>
+<li>
+<p><strong>Week 12:</strong> Animation Techniques</p>
+<ul>
+<li>Keyframe animation, motion interpolation, particle systems</li>
+</ul>
+</li>
+<li>
+<p><strong>Week 13:</strong> GPU and Shader Programming</p>
+<ul>
+<li>GPU architecture, vertex and fragment shaders</li>
+</ul>
+</li>
+<li>
+<p><strong>Week 14:</strong> Advanced Topics in Graphics</p>
+<ul>
+<li>Real-time rendering, VR/AR basics</li>
+</ul>
+</li>
+<li>
+<p><strong>Week 15:</strong> Review and Final Examination</p>
+</li>
+</ul>
+<hr>
+<h3 id="assessment-components">Assessment Components</h3>
+<ul>
+<li>Assignments and Quizzes – 15%</li>
+<li>Midterm Exam – 15%</li>
+<li>Final Exam – 60%</li>
+<li>Class Participation – 10%</li>
+</ul>
+<hr>
+<h3 id="suggested-textbooks-and-references">Suggested Textbooks and References</h3>
+<ul>
+<li><em>Fundamentals of Computer Graphics</em> – Peter Shirley et al.</li>
+<li><em>Computer Graphics: Principles and Practice</em> – Foley, van Dam, Feiner, Hughes</li>
+<li><em>OpenGL Programming Guide</em> – Woo, Neider, Davis</li>
+<li>Online resources: <a href="https://learnopengl.com/">LearnOpenGL</a>, <a href="https://www.scratchapixel.com/">Scratchapixel</a></li>
+</ul>
+<hr>
+
+		</div>
+	</article>
+</main>
+
+
+
+
+			</div>
+			
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2025 MHBF Classroom.
+			<span class="footer__copyright-credits">Generated with <a href="https://gohugo.io/" rel="nofollow noopener" target="_blank">Hugo</a> and <a href="https://github.com/mansoorbarri/roadster/" rel="nofollow noopener" target="_blank">Roadster</a> theme.</span>
+		</div>
+	</div>
+</footer>
+	</div>
+<script async defer src="/Classroom/js/menu.js"></script>
+</body>
+</html>

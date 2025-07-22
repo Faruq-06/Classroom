@@ -1,1 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://faruq-06.github.io/Classroom/courses/artificial-intelligence/</loc><lastmod>2025-07-21T00:00:00+00:00</lastmod></url><url><loc>https://faruq-06.github.io/Classroom/courses/computer-graphics/</loc><lastmod>2025-07-21T00:00:00+00:00</lastmod></url><url><loc>https://faruq-06.github.io/Classroom/courses/</loc><lastmod>2025-07-21T00:00:00+00:00</lastmod></url><url><loc>https://faruq-06.github.io/Classroom/</loc><lastmod>2025-07-21T00:00:00+00:00</lastmod></url><url><loc>https://faruq-06.github.io/Classroom/courses/nlp-slides/</loc></url><url><loc>https://faruq-06.github.io/Classroom/assignments/</loc></url><url><loc>https://faruq-06.github.io/Classroom/categories/</loc></url><url><loc>https://faruq-06.github.io/Classroom/resources/</loc></url><url><loc>https://faruq-06.github.io/Classroom/tags/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/Classroom/courses/artificial-intelligence-lab/</loc>
+    <lastmod>2025-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Classroom/courses/computer-algorithm-lab/</loc>
+    <lastmod>2025-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Classroom/courses/</loc>
+    <lastmod>2025-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Classroom/</loc>
+    <lastmod>2025-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Classroom/courses/artificial-intelligence/</loc>
+    <lastmod>2025-07-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Classroom/courses/computer-graphics/</loc>
+    <lastmod>2025-07-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Classroom/assignments/</loc>
+  </url><url>
+    <loc>http://localhost:1313/Classroom/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/Classroom/resources/</loc>
+  </url><url>
+    <loc>http://localhost:1313/Classroom/tags/</loc>
+  </url>
+</urlset>
