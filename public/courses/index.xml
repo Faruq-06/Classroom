@@ -23,6 +23,13 @@
       <description>&lt;h3 id=&#34;course-information&#34;&gt;Course Information:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Semester: 4th&lt;/li&gt;&#xA;&lt;li&gt;Course Code: 07-0613-CALab406&lt;/li&gt;&#xA;&lt;li&gt;Credits: 01&lt;/li&gt;&#xA;&lt;li&gt;Course Teacher: Md Habibul Basar Faruq&lt;/li&gt;&#xA;&lt;li&gt;Email: &lt;a href=&#34;mailto:mh.faruq06@gmail.com&#34;&gt;mh.faruq06@gmail.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;lab-objectives&#34;&gt;&lt;strong&gt;Lab Objectives&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Upon completion of this lab, students will be able to:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Implement fundamental data structures (arrays, linked lists, stacks, queues, trees, graphs)&lt;/li&gt;&#xA;&lt;li&gt;Develop and analyze sorting/searching algorithms (selection, insertion, merge, quick, radix)&lt;/li&gt;&#xA;&lt;li&gt;Implement recursion-based solutions (Fibonacci, factorial, series summations)&lt;/li&gt;&#xA;&lt;li&gt;Apply divide-and-conquer, greedy, and dynamic programming techniques (Knapsack, matrix chain multiplication)&lt;/li&gt;&#xA;&lt;li&gt;Explore backtracking (N‑Queens, subset sum) and graph algorithms (DFS, BFS, Dijkstra)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;weekly-lab-activities&#34;&gt;&lt;strong&gt;Weekly Lab Activities&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Week 1:&lt;/strong&gt; Introduction&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Computer Algorithms</title>
+      <link>http://localhost:1313/Classroom/courses/computer-algorithm/</link>
+      <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Classroom/courses/computer-algorithm/</guid>
+      <description>&lt;h3 id=&#34;course-information&#34;&gt;Course Information&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Semester: 4th&lt;/li&gt;&#xA;&lt;li&gt;Course Code: 07-0613-CA401&lt;/li&gt;&#xA;&lt;li&gt;Credits: 03&lt;/li&gt;&#xA;&lt;li&gt;Course Teacher: Md Habibul Basar Faruq&lt;/li&gt;&#xA;&lt;li&gt;Email: &lt;a href=&#34;mailto:mh.faruq06@gmail.com&#34;&gt;mh.faruq06@gmail.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;course-description&#34;&gt;Course Description&lt;/h3&gt;&#xA;&lt;p&gt;This course introduces the design, analysis, and implementation of algorithms. Students will learn fundamental algorithmic techniques such as divide-and-conquer, greedy strategies, dynamic programming, and graph algorithms. The course emphasizes efficiency analysis using Big-O notation and explores NP-completeness, approximation, and randomized algorithms.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;course-outcomes&#34;&gt;Course Outcomes&lt;/h3&gt;&#xA;&lt;p&gt;Upon successful completion of this course, students will be able to:&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Computer Graphics</title>
       <link>http://localhost:1313/Classroom/courses/computer-graphics/</link>
       <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
@@ -35,13 +42,6 @@
       <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/Classroom/courses/artificial-intelligence/</guid>
       <description>&lt;h3 id=&#34;course-information&#34;&gt;Course Information&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Semester: 6th&lt;/li&gt;&#xA;&lt;li&gt;Course Code: 07-0619-AI603&lt;/li&gt;&#xA;&lt;li&gt;Credits: 03&lt;/li&gt;&#xA;&lt;li&gt;Course Teacher: Md Habibul Basar Faruq&lt;/li&gt;&#xA;&lt;li&gt;Email: &lt;a href=&#34;mailto:mh.faruq06@gmail.com&#34;&gt;mh.faruq06@gmail.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;course-description&#34;&gt;Course Description&lt;/h3&gt;&#xA;&lt;p&gt;This course provides a comprehensive introduction to Artificial Intelligence, covering foundational concepts, algorithms, and applications. Students will explore problem solving, knowledge representation, reasoning, learning, and perception, integrating theory with hands-on programming assignments.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;weekly-topics-and-resources&#34;&gt;Weekly Topics and Resources&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Week 1:&lt;/strong&gt; AI Overview &amp;amp; Foundations&lt;br&gt;&#xA;Introduction to AI concepts and history.&lt;br&gt;&#xA;&lt;a href=&#34;https://courses.cs.washington.edu/courses/cse573/21wi/slides/1-intro.pdf&#34;&gt;Intro Slides (UW CSE573)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Week 2:&lt;/strong&gt; Problem Solving &amp;amp; Search&lt;br&gt;&#xA;Uninformed and informed search strategies (DFS, BFS, A*).&lt;br&gt;&#xA;&lt;a href=&#34;https://courses.cs.washington.edu/courses/cse573/21wi/slides/2-search.pdf&#34;&gt;Search Slides&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://courses.cs.washington.edu/courses/cse573/21wi/slides/3-InformedSearch.pdf&#34;&gt;Informed Search Slides (Annotated)&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/Classroom/courses/computer-algorithm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Classroom/courses/computer-algorithm/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>

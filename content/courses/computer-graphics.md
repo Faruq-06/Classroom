@@ -36,7 +36,7 @@ Upon successful completion of this course, students will be able to:
 ### Weekly Topics
 
 - **Week 1:** Introduction to Computer Graphics  
-  - Overview, history, and applications of graphics  
+  - Overview, history, and applications of graphics  - [Resources](https://drive.google.com/file/d/1IQwFjo44T09quaoEO_Cf36hs3DSeKMlc/view?usp=drive_link) 
 
 - **Week 2:** Graphics Pipeline and Coordinate Systems  
   - Stages in graphics pipeline, world-to-screen mapping  
