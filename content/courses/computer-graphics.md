@@ -96,7 +96,7 @@ Upon successful completion of this course, students will be able to:
 
 ### Suggested Textbooks and References
 
-- *Fundamentals of Computer Graphics* – Peter Shirley et al.  
+- *Fundamentals of Computer Graphics* – Peter Shirley et al.[Get the book](https://drive.google.com/file/d/1nuBdYQNaowJgI-XkIWQ7mwQkO8_Ak4Em/view?usp=sharing)  
 - *Computer Graphics: Principles and Practice* – Foley, van Dam, Feiner, Hughes  
 - *OpenGL Programming Guide* – Woo, Neider, Davis  
 - Online resources: [LearnOpenGL](https://learnopengl.com/), [Scratchapixel](https://www.scratchapixel.com/)  
