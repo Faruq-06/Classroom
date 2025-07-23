@@ -103,3 +103,7 @@ Upon successful completion of this course, students will be able to:
 
 ---
 
+### Class Participants: 
+
+- ***Week 1:*** [Present List](https://docs.google.com/document/d/1_W4f37aDtQXaXilE8_5wyFX9ExA_WLHq2zhTEdAlbiw/edit?usp=sharing)
+
