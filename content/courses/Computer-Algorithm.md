@@ -36,6 +36,8 @@ Upon successful completion of this course, students will be able to:
   - What is an algorithm? Characteristics and analysis  
   - Asymptotic notations (Big-O, Big-Ω, Big-Θ)
 
+    [Get the lecture](https://docs.google.com/presentation/d/1wL8OTLCOpnpzkzvX4BDYKC4z5YyVcoIH/edit?usp=sharing&ouid=113765860904990042896&rtpof=true&sd=true) 
+
 - **Week 2:** Recursion and Recurrence Relations  
   - Solving recurrence relations  
   - Master theorem for divide-and-conquer
@@ -93,15 +95,15 @@ Upon successful completion of this course, students will be able to:
 ### Assessment Components
 
 - Assignments and Quizzes – 20%  
-- Midterm Exam – 30%  
-- Final Exam – 40%  
+- Midterm Exam – 20%  
+- Final Exam – 50%  
 - Class Participation – 10%  
 
 ---
 
 ### Suggested Textbooks and References
 
-- *Introduction to Algorithms* – Cormen, Leiserson, Rivest, and Stein (CLRS)  
+- *Introduction to Algorithms* – Cormen, Leiserson, Rivest, and Stein (CLRS) ([Get the book](https://drive.google.com/file/d/1cOGXYkHqe6nGPW8E4ErXBTTWKY353L-E/view?usp=sharing))  
 - *Algorithms* – Robert Sedgewick and Kevin Wayne  
 - *Algorithm Design* – Jon Kleinberg and Éva Tardos  
 - Online resources: [MIT OCW 6.046J](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/), [Stanford CS161](https://web.stanford.edu/class/archive/cs/cs161/cs161.1206/)  
