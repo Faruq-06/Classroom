@@ -7,3 +7,7 @@ theme = "roadster"
   description = "A simple classroom site for lectures, resources, and assignments."
   author = "md Habibul Basar Faruq"
 
+[markup.goldmark.renderer]
+unsafe = true
+
+
