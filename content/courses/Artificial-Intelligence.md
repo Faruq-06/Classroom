@@ -93,4 +93,7 @@ This course provides a comprehensive introduction to Artificial Intelligence, co
 
 ---
 
+### CATM:
+- Class Attendance Marks: [Section A](https://docs.google.com/spreadsheets/d/1YqnlnVcVRRgKJlIOSyBVQbc-CPW8IZ8E/edit?usp=sharing&ouid=112558788285769450909&rtpof=true&sd=true) | [Section B](https://docs.google.com/spreadsheets/d/1EjIrJ3zQkxYPPtX6O4XAUjgnpWvXFV7WLxVpIV45EDA/edit?usp=sharing) 
+
 
