@@ -102,6 +102,11 @@ Upon successful completion of this course, students will be able to:
 - *OpenGL Programming Guide* – Woo, Neider, Davis  
 - Online resources: [LearnOpenGL](https://learnopengl.com/), [Scratchapixel](https://www.scratchapixel.com/)  
 
+**Course Credits:**
+
+- Content adapted and compiled from [Stanford University’s CS248: Interactive Computer Graphics course materials.](https://web.stanford.edu/class/cs148/materials/)
+- Material inspired by CMU 15-462/15-662: [Computer Graphics, Fall 2010](https://www.cs.cmu.edu/afs/cs/academic/class/15462-s10/www/lec-slides/)
+
 ---
 
 ### Class Participants: 
