@@ -39,7 +39,7 @@ Upon successful completion of this course, students will be able to:
   - Overview, history, and applications of graphics  - [Resources](https://drive.google.com/file/d/1IQwFjo44T09quaoEO_Cf36hs3DSeKMlc/view?usp=drive_link) 
 
 - **Week 2:** Graphics Pipeline and Coordinate Systems  
-  - Stages in graphics pipeline, world-to-screen mapping   -  [Resource 1](https://web.stanford.edu/class/cs148/materials/class_02_geometry_and_transformations.pdf) | [Resource 2](https://web.stanford.edu/class/cs148/materials/class_03_rasterization_and_shading.pdf)|[Curves and Splines](https://drive.google.com/file/d/1l0HeeSOjzaLhQKjQtpB5lYovNMVLeAKU/view?usp=sharing)
+  - Stages in graphics pipeline, world-to-screen mapping   -  [Resource 1](https://web.stanford.edu/class/cs148/materials/class_02_geometry_and_transformations.pdf) | [Resource 2](https://web.stanford.edu/class/cs148/materials/class_03_rasterization_and_shading.pdf)|[Curves and Splines](https://drive.google.com/file/d/1l0HeeSOjzaLhQKjQtpB5lYovNMVLeAKU/view?usp=sharing) | [Splines Video Link](https://www.youtube.com/watch?v=YMl25iCCRew)
 
 
 - **Week 3:** 2D Primitives and Scan Conversion  
