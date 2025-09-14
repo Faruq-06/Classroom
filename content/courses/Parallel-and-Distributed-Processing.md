@@ -22,7 +22,7 @@ This course introduces the principles and practices of **parallel and distribute
 ### Weekly Topics and Resources
 
 - **Week 1:** Introduction to Parallel and Distributed Systems  
-  Motivation, real-world applications, system architectures.  
+  Motivation, real-world applications, system architectures. | [Lecture slide 01](https://docs.google.com/presentation/d/1xI7FgsH3STFsGma4PGtEx6PhvpzgePdwk8jhlX7kvdA/edit?usp=sharing)  
 
 - **Week 2:** Models of Parallelism  
   Flynn’s taxonomy (SISD, SIMD, MISD, MIMD), shared vs distributed memory.  
