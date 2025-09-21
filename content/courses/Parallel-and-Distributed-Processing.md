@@ -28,7 +28,7 @@ This course introduces the principles and practices of **parallel and distribute
   Flynn’s taxonomy (SISD, SIMD, MISD, MIMD), shared vs distributed memory.  
 
 - **Week 3:** Performance Metrics  
-  Speedup, efficiency, scalability, Amdahl’s Law, Gustafson’s Law.  
+  Speedup, efficiency, scalability, Amdahl’s Law, Gustafson’s Law. | [Lecture slide 03](https://drive.google.com/file/d/1_a34b7Kva5ukFrzGXqlEb1U6G5U1MBZo/view?usp=sharing)  
 
 - **Week 4:** Shared Memory Programming  
   Threads, synchronization, OpenMP basics.  
