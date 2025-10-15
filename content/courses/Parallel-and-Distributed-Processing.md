@@ -25,7 +25,7 @@ This course introduces the principles and practices of **parallel and distribute
   Motivation, real-world applications, system architectures. | [Lecture slide 01](https://docs.google.com/presentation/d/1xI7FgsH3STFsGma4PGtEx6PhvpzgePdwk8jhlX7kvdA/edit?usp=sharing)  
 
 - **Week 2:** Models of Parallelism  
-  Flynn’s taxonomy (SISD, SIMD, MISD, MIMD), shared vs distributed memory.  
+  Flynn’s taxonomy (SISD, SIMD, MISD, MIMD), shared vs distributed memory. | [Lecture 02](https://drive.google.com/file/d/1MD1ZB_eq4p5pBvkUT9eyKE6LLLcoD8z7/view?usp=sharing)  
 
 - **Week 3:** Performance Metrics  
   Speedup, efficiency, scalability, Amdahl’s Law, Gustafson’s Law. | [Lecture slide 03](https://drive.google.com/file/d/1_a34b7Kva5ukFrzGXqlEb1U6G5U1MBZo/view?usp=sharing)  
