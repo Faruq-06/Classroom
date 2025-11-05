@@ -31,7 +31,7 @@ This course introduces the principles and practices of **parallel and distribute
   Speedup, efficiency, scalability, Amdahl’s Law, Gustafson’s Law. | [Lecture slide 03](https://drive.google.com/file/d/1_a34b7Kva5ukFrzGXqlEb1U6G5U1MBZo/view?usp=sharing)  
 
 - **Week 4:** Shared Memory Programming  
-  Threads, synchronization, OpenMP basics.| [Lecture Slide](https://docs.google.com/presentation/d/10E2AkYDYOge9ZU_R8mOmG_6uoTJOw4rVR8lWkwxFp38/edit?usp=sharing)  
+  Threads, synchronization, OpenMP basics. | [Lecture Slide](https://docs.google.com/presentation/d/10E2AkYDYOge9ZU_R8mOmG_6uoTJOw4rVR8lWkwxFp38/edit?usp=sharing)  
 
 - **Week 5:** Message Passing Programming  
   MPI basics: point-to-point and collective communication.  
