@@ -34,7 +34,7 @@ This course introduces the principles and practices of **parallel and distribute
   Threads, synchronization, OpenMP basics. | [Lecture Slide](https://docs.google.com/presentation/d/10E2AkYDYOge9ZU_R8mOmG_6uoTJOw4rVR8lWkwxFp38/edit?usp=sharing)  
 
 - **Week 5:** Message Passing Programming  
-  MPI basics: point-to-point and collective communication.  
+  MPI basics: point-to-point and collective communication. | [Lecture slide](https://drive.google.com/file/d/1GulepCC3IvaFxAIzBjOVJMQo3vaabTA3/view?usp=drive_link)  
 
 - **Week 6:** Synchronization & Coordination  
   Barriers, locks, deadlocks, load balancing.  
